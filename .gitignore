@@ -1,0 +1,72 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Production build
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS files
+*.DS_Store
+
+# ESLint cache
+.eslintcache
+
+# Babel cache
+.cache/
+
+# React Native files
+.expo/
+
+# Storybook files
+.storybook/
+stories/
+
+# Parcel-bundler cache (if you use Parcel)
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn Integrity file
+.yarn-integrity
+
+# npm cache
+npm-debug.log*
+
+# dotenv environment variable files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jest
+jest/
